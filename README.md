@@ -1,2 +1,17 @@
-# MANU_Godot_theme
+# MANU Godot theme
 Theme for Godot code editor
+
+INSTRUCTIONS:
+
+Download the raw **Manu.tet** file.
+
+Put into (make the folder if it isn't there):
+
+macOS:
+~/Library/Application Support/Godot/text_editor_themes/
+
+Windows:
+type %appdata% to the file browser's address bar, put file into folder Godot\text_editor_themes\
+
+Linux:
+~/.config/godot/text_editor_themes/
