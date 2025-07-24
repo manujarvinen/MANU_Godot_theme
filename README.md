@@ -1,5 +1,6 @@
 # MANU Godot theme
 Theme for Godot code editor
+Tested to work with Godot 4.4
 
 INSTRUCTIONS:
 
