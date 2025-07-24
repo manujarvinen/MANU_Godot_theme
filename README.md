@@ -15,3 +15,5 @@ type %appdata% to the file browser's address bar, put file into folder Godot\tex
 
 Linux:
 ~/.config/godot/text_editor_themes/
+
+In Godot, go to Editor Settings/Text Editor/Theme and select the theme from Color Theme dropdown menu.
